@@ -24,4 +24,6 @@ occur:
  2 producer writes into the same slot 
  2 consumer reads the same slot   
 
+For dore details read The documention.
+
 
