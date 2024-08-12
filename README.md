@@ -23,6 +23,7 @@ occur:
  The producer and consumer insert and remove data in the same time 
  2 producer writes into the same slot 
  2 consumer reads the same slot   
+![Bounded-Buffer-Problem-OS-Operating-System](https://github.com/user-attachments/assets/cca1bcc0-4ebe-4743-8e5a-1ecf27ce2996)
 
 For dore details read The documention.
 
